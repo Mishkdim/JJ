@@ -1,10 +1,10 @@
+@font-face {
+	font-family: "Emblema One";
+	src: url("http://wickedlysmart.com/hfhtmlcss/chapter8/journal/EmblemaOne-Regular.woff"), 
+	     url("http://wickedlysmart.com/hfhtmlcss/chapter8/journal/EmblemaOne-Regular.ttf"); 
+}
 body {
     font-family: Verdana, Geneva, Arial, sans-serif;
-}
-@font-face {
-    font-family: "Emblema One";
-    src: url("http://wickedlysmart.com/hfhtmlcss/chapter8/journal/EmblemaOne-Regular.woff"),
-    url("http://wickedlysmart.com/hfhtmlcss/chapter8/journal/EmblemaOne-Regular.ttf");
 }
 blockquote {
     font-family: fantasy;
@@ -13,5 +13,5 @@ p{
     color: aquamarine;
 }
 h1 {
-    font-family: "Emblema One", sans-serif;
-}
+    font-family:     "Emblema One", sans-serif;
+  }
