@@ -1,17 +1,11 @@
 @font-face {
-	font-family: "Emblema One";
-	src: url("http://wickedlysmart.com/hfhtmlcss/chapter8/journal/EmblemaOne-Regular.woff"), 
-	     url("http://wickedlysmart.com/hfhtmlcss/chapter8/journal/EmblemaOne-Regular.ttf"); 
+	font-family: "Emblema";
+	src: url("http://wickedlysmart.com/hfhtmlcss/chapter8/journal/EmblemaOne-Regular.ttf"); 
 }
 body {
-    font-family: Verdana, Geneva, Arial, sans-serif;
-}
-blockquote {
-    font-family: fantasy;
-}
-p{
-    color: aquamarine;
+  font-family:     Verdana, Geneva, Arial, sans-serif;
+  font-size:       small;
 }
 h1 {
-    font-family:     "Emblema One", sans-serif;
-  }
+  font-family:     "Emblema", sans-serif;
+ }
